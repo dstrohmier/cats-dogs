@@ -4,4 +4,4 @@ To start first new project.
 
 ## Subheader
 
-Watch tutorial on YouTube.
+Watch tutorial on YouTube!
